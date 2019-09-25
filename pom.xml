@@ -11,7 +11,7 @@
     <version>0.0.0_0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
-    <name>UA Detector Parent</name>
+    <name>net.sf.uadetector.parent</name>
     <description>User Agent Detection Parent</description>
     <profiles>
         <profile>
